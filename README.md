@@ -3,7 +3,7 @@
 
 - I’m currently learning JavaScript and C++ (someone teach me how to code well)
 
-- All of my repositories are publicly available on (Github and Discord)
+- All of my repositories can be found on Github and Discord
 
 
 <h3 align="left">Languages and Tools:</h3>
