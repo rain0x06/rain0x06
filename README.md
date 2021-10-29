@@ -1,9 +1,9 @@
-<h1 align="center">Welcome Skids, Rain#1337</h1>
+<h1 align="center">welcome all, I'm rain-#1336</h1>
 <h3 align="center">Aspiring Paster/Developer from the U.S.</h3>
 
-- I’m currently learning JavaScript and C++ (someone teach me how to code well)
+- I’m currently learning JavaScript and C++
 
-- All of my repositories can be found on Github and Discord
+- All of my repositories are public, and can be found on Github and Discord
 
 
 <h3 align="left">Languages and Tools:</h3>
