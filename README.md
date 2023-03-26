@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/rain0x06" target="blank"><img src="https://img.shields.io/twitter/follow/rain0x06?logo=twitter&style=for-the-badge" alt="rain0x06" /></a> </p>
 
-- 📫 How to reach me **e-z.bio/rain**
+- 📫 How to reach me (social links): **e-z.bio/rain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
