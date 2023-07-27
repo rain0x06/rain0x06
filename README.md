@@ -1,4 +1,4 @@
-<h3 align="center">rain#3335 - developing, reversing, pasting</h3>
+<h3 align="center">rain#3335</h3>
 
 <p align="left"> <a href="https://twitter.com/rain0x06" target="blank"><img src="https://img.shields.io/twitter/follow/rain0x06?logo=twitter&style=for-the-badge" alt="rain0x06" /></a> </p>
 
