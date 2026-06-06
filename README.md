@@ -26,8 +26,6 @@
 
 I build and break things around native tooling, file formats, game/platform internals, and automation.
 
-Contact lives at **[rain0x.me](https://rain0x.me)**. If you need to reach me directly, email **rain@rain0x.me**.
-
 ### Stack
 
 <p>
@@ -36,10 +34,14 @@ Contact lives at **[rain0x.me](https://rain0x.me)**. If you need to reach me dir
 
 ### GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rain0x06&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="rain0x06 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain0x06&layout=compact&hide_border=true&theme=tokyonight" alt="rain0x06 top languages" />
-</p>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rain0x06&amp;theme=github_dark" alt="rain0x06 GitHub profile summary" />
+</div>
+
+<div>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rain0x06&amp;theme=github_dark" alt="rain0x06 GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rain0x06&amp;theme=github_dark" alt="rain0x06 repos per language" />
+</div>
 
 ---
 
